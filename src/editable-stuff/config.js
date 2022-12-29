@@ -6,7 +6,7 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Quico",
+  firstName: "Francisco",
   middleName: "Boix",
   lastName: "Martinez",
   message: " Passionate about changing the world with technology. ",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Quico. I’m a graduate of 2023 from University of Murcia, Spain with a degree in Computer Engineering.",
+    "My name is Francisco. I’m a graduate of 2023 from University of Murcia, Spain with a degree in Computer Engineering.",
   resume: "https://drive.google.com/file/d/1sGqC7tCFZ8OVan64c0sYeaH6hoqrGlBE/view?usp=sharing",
 };
 
